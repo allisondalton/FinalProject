@@ -4,6 +4,9 @@ follow a similar energy consumption trend, by not using much energy in the early
 see if these Texas cities follow this same trend, and what this could mean for energy consumption in the future, as the world looks towards renewable energy alternatives.
 
 To see links to other parts of the project:
+
 Report: https://docs.google.com/document/d/1H1aeR2SGvGu0diNhdJsoq-5Ncq81HADdWWlVjeGwRh0/edit?usp=sharing
+
 Dashboard: https://pure-woodland-58846.herokuapp.com/ 
+
 Repo: https://github.com/allisondalton/FinalProject.git
